@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suwatcharin Issariyakasem (Kant)</h1>
 <h3 align="center">A man who love to coding like playing a game.</h3>
-<a href="https://giphy.com/gifs/animation-game-boy-video-games-day-3oEjHYlwvUK5p9AIbm">via GIPHY</a>
+<a href="https://giphy.com/gifs/animation-game-boy-video-games-day-3oEjHYlwvUK5p9AIbm" />
 
 - 🌱 I’m currently learning **Python**
 
