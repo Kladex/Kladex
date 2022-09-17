@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suwatcharin Issariyakasem (Kant)</h1>
 <h3 align="center">A man who love coding like playing a game.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
